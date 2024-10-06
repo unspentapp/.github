@@ -27,7 +27,7 @@ Check out our docs:
 
 We're always looking for cool cats who want to help make budgeting less of a drag. If you're into mobile dev, web wizardry, or just have a knack for making numbers fun, give us a shout!
 
-Remember: Every penny saved is a penny you can spend on something much more exciting later! 💰✨
+Remember: Every penny saved is a penny you can invest! 💰✨
 
 ---
 
