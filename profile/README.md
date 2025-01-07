@@ -22,6 +22,7 @@ Because let's face it, most budgeting apps are about as exciting as watching pai
 ## 🛠️ Want to Follow the Build in Public?
 Check out our docs:
 1. [First Overview (Oct 2024)](https://github.com/UnspentApp/docs/blob/89b3cacecff28c4a248e3c4afe73b201b05e9d76/Unspent.md)
+2. [Build in public (last upd. Dec 2024)](https://github.com/unspentapp/mobile-app/blob/develop/README.md) 
 
 ## 🤝 Join the Fun!
 
